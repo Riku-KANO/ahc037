@@ -85,6 +85,8 @@ inline T pow2(T x) { return x * x; }
 
 //-- globals --
 clock_t start_time;
+constexpr i32 N = 1'000;
+
 //-------------
 
 
